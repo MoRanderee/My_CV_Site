@@ -1,2 +1,2 @@
-# MyCV
-This is a website that acts as my CV
+# My CV website
+This is a website that I created as a template for an online CV or portfolio 
